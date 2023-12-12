@@ -2,7 +2,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/typing.gif" alt="Coding gif" /> -->
+ <img align="right" width="350" src="/assets/typing.gif" alt="Coding gif" /> 
   
  ✌️ &emsp; I'm Pedro Soares, a Data Scientist from Brazil <br/><br/>
  🌐 &emsp; Focused on studying Machine Learning and Data Mining<br/><br/>
