@@ -51,11 +51,11 @@
 
 <a> 
     <a href="https://github.com/pedrsrs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosrs&theme=radical&border=7F3FBF&background=0D1117" alt="Pedro's GitHub streak" height="192px" width="49.5%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrsrs&theme=radical&border=7F3FBF&background=0D1117" alt="Pedro's GitHub streak" height="192px" width="49.5%" />
   </a>
-  <a href="https://github.com/pedrsrs"><img alt="Pedro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pedrosrs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/pedrsrs"><img alt="Pedro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pedrsrs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <br>
 
-![Pedro's Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosrs&custom_title=Pedro's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Pedro's Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrsrs&custom_title=Pedro's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
