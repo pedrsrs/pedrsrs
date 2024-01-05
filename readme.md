@@ -9,16 +9,10 @@
  📧 &emsp; Reach me anytime: pedrosrs.dev@gmail.com<br/><br/>
  Languages: 🇧🇷  🇺🇸  🇪🇸 
  <br/>
-<p align="center">
- <!-- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="pedro" />
- </a> -->
+<p align="left">
  <a href="https://www.linkedin.com/in/pedro-soares-b3625b238/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pedro"/>
  </a>&emsp;
- <a href="https://kaggle.com" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white" />
- </a> 
 </p>
 <br />
 </p>
