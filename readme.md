@@ -5,7 +5,8 @@
  <img align="right" width="350" src="/assets/typing.gif" alt="Coding gif" /> 
   
  ✌️ &emsp; I'm Pedro Soares, a Data Scientist from Brazil <br/><br/>
- 🌐 &emsp; Focused on studying Machine Learning and Data Mining<br/><br/>
+ 📚 &emsp; Currently pursuing a degree in Statistics at UFMG<br/><br/>
+ 🌐 &emsp; Focused on studying Machine Learning and Clustering Algorithms<br/><br/>
  📧 &emsp; Reach me anytime: pedrosrs.dev@gmail.com<br/><br/>
  Languages: 🇧🇷  🇺🇸  🇪🇸 
  <br/>
@@ -26,6 +27,7 @@
 <div style="text-align: center; margin: auto;">
  
 ![Python](https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&labelColor=ECD53F&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&labelColor=00ADD8&logo=go&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
