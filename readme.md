@@ -6,7 +6,7 @@
   
  ✌️ &emsp; I'm Pedro Soares, a Data Scientist from Brazil <br/><br/>
  📚 &emsp; Currently pursuing a degree in Statistics at UFMG<br/><br/>
- 🌐 &emsp; Focused on studying Machine Learning and Data Pipeline Architechtures<br/><br/>
+ 🌐 &emsp; Focused on studying Machine Learning and Data Pipeline <br>&emsp;&emsp;&emsp;Architechtures<br/><br/>
  📧 &emsp; Reach me anytime: pedrosrs.dev@gmail.com<br/><br/>
  Languages: 🇧🇷  🇺🇸  🇪🇸 
  <br>
